@@ -1,6 +1,6 @@
 # staggered
-
-A new Flutter project.
+A new Flutter application illustrating a clean ui. Here's the link to the desing on uplabs.
+![alt text](https://raw.githubusercontent.com/trey-rosius/staggered/master/assets/images/stargered.png)
 
 ## Getting Started
 
